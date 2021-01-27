@@ -1,4 +1,5 @@
-VideoSlots Assessment
+VideoSlots Assessment:
+
 This assessment consists of code written in Java and PHP for Palindrome and Divisibility checks. This Repository contains following files:
 
 1. Java Project - Assessment
