@@ -3,8 +3,8 @@ VideoSlots Assessment:
 This assessment consists of code written in Java and PHP for Palindrome and Divisibility checks. This Repository contains following files:
 
 1. Java Project - Assessment
-2. PHP files
-3. Test Cases
+2. PHP files - IsMultiplier.PHP, paliandrome.PHP
+3. Test Cases - Excel file
 
 
 Following are the steps to execute the functions
